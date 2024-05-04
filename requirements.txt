@@ -1,0 +1,8 @@
+torch
+jax
+jupyter
+jax[cpu] 
+tqdm
+matplotlib
+# jax[cuda12_pip]
+# jax[tpu]
