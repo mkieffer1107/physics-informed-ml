@@ -1,0 +1,1 @@
+pde_solving/ contains the traditional approaches to solving partial differential equations
