@@ -1,5 +1,5 @@
 # physics-informed-ml
-Some of my code following a [great series](https://youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa&si=GRhFsR1xLx1ofiPV) by Steve Brunton + some [https://youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm&si=CUcEc6_Ns-aBXIK8](extras) 🤖
+Some of my code following a [great series](https://youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa&si=GRhFsR1xLx1ofiPV) by Steve Brunton + some [extras](https://youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm&si=CUcEc6_Ns-aBXIK8) 🤖
 
 
 | Repo | YouTube Video | Topics |
