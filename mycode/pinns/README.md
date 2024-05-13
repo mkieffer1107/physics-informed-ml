@@ -12,3 +12,7 @@ Contains a short tutorial on basic techniques for solving initial condition prob
 
 ### 📓 [schrodinger.ipynb](pde_solving/schrodinger.ipynb)
 Two different approaches to solving the time-dependent Schrodinger equation.
+
+![PINN 1](./pinn1.gif)
+![PINN 2](./pinn2.gif)
+![PINN 3](./pinn3.gif)
