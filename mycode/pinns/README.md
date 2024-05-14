@@ -9,7 +9,7 @@ Contains a short tutorial on basic techniques for solving boundary condition pro
 
 🌊 [wave.gif](pde_solving/wave.gif) - Intentionally numerically unstable solution to the wave equation.
 
-<img src="pde_solving/wave.gif" alt="wave.gif" width="600">
+<img src="pde_solving/wave.gif" alt="wave.gif" width="800">
 
 
 
