@@ -4,10 +4,11 @@
 Contains a short tutorial on basic techniques for solving boundary condition problems.
 
 🌀 [diffusion.gif](pde_solving/diffusion.gif) - Numerical solution to the diffusion equation.
-![diffusion.gif](pde_solving/diffusion.gif)
+<img src="pde_solving/diffusion.gif" alt="diffusion.gif" width="400">
 
 🌊 [wave.gif](pde_solving/wave.gif) - Intentionally numerically unstable solution to the wave equation.
-![wave.gif](pde_solving/wave.gif)
+<img src="pde_solving/wave.gif" alt="wave.gif" width="400">
+
 
 ### 📓 [initial.ipynb](pde_solving/initial.ipynb)
 Contains a short tutorial on basic techniques for solving initial condition problems.
