@@ -20,8 +20,9 @@ Two different approaches to solving the time-dependent Schrodinger equation.
 ## Training a PINN to simulate a damped harmonic oscillator [->](./spring.ipynb#task-1-train-a-pinn-to-simulate-the-system)
 ![PINN 1](./pinn1.gif)
 
-## Training a PINN to solve for an underlying parameter [->](./spring.ipynb#numerical_differentiation)
+## Training a PINN to solve for an underlying parameter [->](./spring.ipynb#task-2-train-a-pinn-to-invert-for-underlying-parameters)
 ![PINN 2](./pinn2.gif)
 
-## Comparing MLP and PINN performance on partial data [->](./spring.ipynb#numerical_differentiation)
+## Comparing MLP and PINN performance on partial data [->](./spring.ipynb#task-3-pinn-vs-mlp)
 ![PINN 3](./pinn3.gif)
+
