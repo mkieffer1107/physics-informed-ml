@@ -22,6 +22,8 @@ Contains a short tutorial on basic techniques for solving initial condition prob
 ### 📓 [schrodinger.ipynb](pde_solving/schrodinger.ipynb)
 Two different approaches to solving the time-dependent Schrodinger equation.
 
+🚧 animations coming soon 🚧
+
 ---
 
 ### 📓 [spring.ipynb](spring.ipynb)
