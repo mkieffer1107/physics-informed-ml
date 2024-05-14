@@ -14,7 +14,7 @@ Contains a short tutorial on basic techniques for solving initial condition prob
 
 <img src="pde_solving/diffusion.gif" alt="diffusion.gif" width="400">
 
-🌊 [wave.gif](pde_solving/wave.gif) - Intentionally numerically unstable solution to the wave equation.
+🌊 [wave.gif](pde_solving/wave.gif) - *Intentionally* (yes, seriously :)) numerically unstable solution to the wave equation.
 
 <img src="pde_solving/wave.gif" alt="wave.gif" width="600">
 
