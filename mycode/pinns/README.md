@@ -17,7 +17,7 @@ Two different approaches to solving the time-dependent Schrodinger equation.
 
 ### 📓 [spring.ipynb](spring.ipynb)
 
-## Training a PINN to simulate a damped harmonic oscillator [->](./spring.ipynb#Task 1: train a PINN to simulate the system)
+## Training a PINN to simulate a damped harmonic oscillator [->](./spring.ipynb#task-1-train-a-pinn-to-simulate-the-system)
 ![PINN 1](./pinn1.gif)
 
 ## Training a PINN to solve for an underlying parameter [->](./spring.ipynb#numerical_differentiation)
