@@ -3,6 +3,10 @@
 ### 📓 [boundary.ipynb](pde_solving/boundary.ipynb)
 Contains a short tutorial on basic techniques for solving boundary condition problems.
 
+⚡️ [potential.png](pde_solving/potential.png) - Electric potential distribution.
+
+<img src="pde_solving/potential.png" alt="potential.png" width="400">
+
 ### 📓 [initial.ipynb](pde_solving/initial.ipynb)
 Contains a short tutorial on basic techniques for solving initial condition problems.
 
