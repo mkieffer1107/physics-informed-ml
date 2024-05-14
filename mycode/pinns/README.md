@@ -13,6 +13,12 @@ Contains a short tutorial on basic techniques for solving initial condition prob
 ### 📓 [schrodinger.ipynb](pde_solving/schrodinger.ipynb)
 Two different approaches to solving the time-dependent Schrodinger equation.
 
+
+### Training a PINN to simulate a damped harmonic oscillator
 ![PINN 1](./pinn1.gif)
+
+### Training a PINN to solve for an underlying parameter
 ![PINN 2](./pinn2.gif)
+
+### Comparing MLP and PINN performance on partial data
 ![PINN 3](./pinn3.gif)
