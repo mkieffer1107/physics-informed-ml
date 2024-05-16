@@ -4,5 +4,6 @@ jupyter
 jax[cpu] 
 tqdm
 matplotlib
+torchsummary
 # jax[cuda12_pip]
 # jax[tpu]
