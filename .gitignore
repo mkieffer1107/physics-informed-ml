@@ -4,6 +4,7 @@ CODE
 DATA
 mycode/pinns/plots/*
 .DS_STORE
+note.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
